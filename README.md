@@ -299,13 +299,13 @@ If you use this code or build on this work, please cite:
 ```bibtex
 @inproceedings{minh2025drones,
   title     = {DRONEs: Deep Reinforcement Optimization for Network k-Connectivity Restoration Enhancement in UAVs},
-  author    = {Trinh, The Minh and Nguyen, Van Son and Nguyen, Nam Phuong and Nguyen, Thi Hanh},
+  author    = {Trinh, The Minh and Tran, Quoc Thai and Nguyen, Van Son and Nguyen, Nam Phuong and Nguyen, Thi Hanh},
   year      = {2025},
   note      = {Hanoi University of Science and Technology; Phenikaa University}
 }
 ```
 
-**Authors:** Trinh The Minh¹, Nguyen Van Son³, Nguyen Nam Phuong¹, Nguyen Thi Hanh²⁴ (corresponding).
+**Authors:** Trinh The Minh¹, Tran Quoc Thai¹, Nguyen Van Son³, Nguyen Nam Phuong¹, Nguyen Thi Hanh²⁴ (corresponding).
 ¹ Hanoi University of Science and Technology · ²·³·⁴ Phenikaa University, Hanoi, Vietnam.
 
 ## Acknowledgment
